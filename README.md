@@ -8,6 +8,7 @@ Optimization is an area of interest and research in this fast-paced world. Optim
 # Keywords: 
 unconstrained optimization, line search, steepest descent method, Armijo step size rule selection, conjugate gradient, the secant algorithm, ﬁnite difference approximations of the gradient, the penalty and barrier function, the augmented Lagrangian, the Lagrange-Newton method
 
-# Running
-Matlab
+# Running:
+Matlab.
+
 We used Matlab to run the files. 
